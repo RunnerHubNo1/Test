@@ -137,7 +137,7 @@ Imagelogo.BackgroundTransparency = 1.000
 Imagelogo.Position = UDim2.new(0, 8, 0, 9)
 Imagelogo.Size = UDim2.new(0, 25, 0, 25)
 Imagelogo.ZIndex = 2
-Imagelogo.Image = "https://cdn.discordapp.com/attachments/971966486191177728/972073867180900383/BlackSky_Hub.png" --เปลี่ยนรูป Logo ตรงนี้
+Imagelogo.Image = "rbxassetid://8324568288" --เปลี่ยนรูป Logo ตรงนี้
 Imagelogo.ImageRectOffset = Vector2.new(50, 800)
 Imagelogo.ImageRectSize = Vector2.new(50, 50)
 
@@ -271,7 +271,7 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     Label.Size = UDim2.new(0, 432, 0, 26)
     
     LabelText.Name = "LabelText"
-    LabelText.Parent = Label
+    LabelText.Parent = AutoFarm
     LabelText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     LabelText.BackgroundTransparency = 1.000
     LabelText.Position = UDim2.new(0.194444448, 0, 0.15625, 0)
